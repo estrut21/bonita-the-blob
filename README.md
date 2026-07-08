@@ -1,6 +1,8 @@
 # bonita-the-blob
 Bobita is a desktop companion who tracks how much you go on your computer.
 
+
+
 Bobita is a interactive desktop companion built with an Arduino Uno. She sits on your desk, and notices when you come by
 and tracks when you say hi to her. The goal of building Bobita was to learn how to use an Arduino and to create something cute and simple and that could actually matter when hopefully bringing her to OUTPOST//Open Sauce. 
 Rather then a a basic blinking Led I made something interactive and that tracks movements. 
