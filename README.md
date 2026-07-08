@@ -12,7 +12,7 @@ Features
 -greets visitors with a buzz and that tracks the movement.
 -Tracks how many time someone visits even after being unplugged
 
-Hardware Used:
+Hardware Used and was all funded by my mom:
 - Arduino Uno R3
 - -HC-SRO4 Ultrasonic Senor
 - Active Buzzer
