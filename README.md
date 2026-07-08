@@ -42,6 +42,8 @@ Hardware Used:
   4. detecting visitors
   5. building popsicle body
   6. decorating with a smile and flower
+ 
+  Bobita can be used at Open Sauce to track hwo many visitors comes to our booth and interacts with our projects
 
   
      
