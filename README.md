@@ -46,7 +46,7 @@ Hardware Used:
   6. decorating with a smile and flower
  
   Bobita can be used at Open Sauce to track hwo many visitors comes to our booth and interacts with our projects
-
+AI usage was helped to figure out code and form a template for the code but all code was reviewed written and tested by me.
   
      
   
