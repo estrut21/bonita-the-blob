@@ -7,7 +7,7 @@ Bobita is a interactive desktop companion built with an Arduino Uno. She sits on
 and tracks when you say hi to her. The goal of building Bobita was to learn how to use an Arduino and to create something cute and simple and that could actually matter when hopefully bringing her to OUTPOST//Open Sauce. 
 Rather then a a basic blinking Led I made something interactive and that tracks movements. 
 
-Features:
+Features
 -Detects when someone waves hand or approches using an ultrasonic sensor
 -greets visitors with a buzz and that tracks the movement.
 -Tracks how many time someone visits even after being unplugged
