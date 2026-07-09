@@ -60,6 +60,21 @@ Bobita wiring schematics:
 <img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/8a649f70-23d1-4c7e-b9e6-f075964025ca" />
 
 
+BOBITA PROGRESS PHOTOS:
+<img width="4284" height="5712" alt="IMG_7643 copy" src="https://github.com/user-attachments/assets/0e6b438a-940d-4afe-99fa-7383391af21c" />
+
+<img width="4284" height="5712" alt="IMG_7645 copy" src="https://github.com/user-attachments/assets/62acf75f-1dea-42a2-bbec-977cf6962307" />
+
+<img width="3024" height="4032" alt="IMG_7647 copy" src="https://github.com/user-attachments/assets/da936ffc-f939-49c6-8cfb-54494e4802b5" />
+
+<img width="4284" height="5712" alt="IMG_7659 copy" src="https://github.com/user-attachments/assets/f7387836-2396-44ed-9698-34ab64eeda9b" />
+
+<img width="4284" height="5712" alt="IMG_7666 copy" src="https://github.com/user-attachments/assets/f005e3d6-53c8-434e-b137-a798e49ddaa1" />
+
+<img width="3024" height="4032" alt="IMG_7670 copy" src="https://github.com/user-attachments/assets/7f07edda-5e08-47c3-92e1-b65a8f0fbf0a" />
+
+
+
 
   
      
