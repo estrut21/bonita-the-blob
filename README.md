@@ -13,9 +13,9 @@ and tracks when you say hi to her. The goal of building Bobita was to learn how 
 Rather then a a basic blinking Led I made something interactive and that tracks movements. 
 
 Features
-- Detects when someone waves hand or approches using an ultrasonic sensor
-- greets visitors with a buzz and that tracks the movement.
-- Tracks how many time someone visits even after being unplugged
+- Detects when someone waves hand or approches using an ultrasonic sensor 
+- greets visitors with a buzz and that tracks the movement. 
+- Tracks how many time someone visits even after being unplugged 
 
 Hardware Used and was all funded by my mom:
 - Arduino Uno R3
