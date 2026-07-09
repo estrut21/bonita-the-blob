@@ -1,5 +1,10 @@
 # bobita-the-blob
 Bobita is a desktop companion who tracks how much you go on your computer.
+ <img width="3024" height="4032" alt="IMG_7671 copy" src="https://github.com/user-attachments/assets/13528a7d-4bb7-4c00-af1b-d346d41ed3d2" />
+
+<img width="4284" height="5712" alt="IMG_7698 copy" src="https://github.com/user-attachments/assets/f40484b3-b7f3-441c-9b9a-3749964f704b" />
+
+
 
 
 
@@ -24,6 +29,9 @@ Hardware Used and was all funded by my mom:
 
   How it Works
   when someone moves like 15 cm from Bobita the ultrasonic sensor detecs them.
+  
+  
+
 
   Bobita interacts with a sound and well increase the visits the happier Bobita is.
 
@@ -50,6 +58,8 @@ AI usage was helped to figure out code and form a template for the code but all 
 
 Bobita wiring schematics:
 <img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/8a649f70-23d1-4c7e-b9e6-f075964025ca" />
+
+
 
   
      
