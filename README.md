@@ -18,6 +18,7 @@ Features
 - Tracks how many time someone visits even after being unplugged 
 
 Hardware Used and was all funded by my mom:
+link to BOM: https://github.com/estrut21/bonita-the-blob/blob/main/BOM%20(Bill%20of%20materials)
 - Arduino Uno R3
 - -HC-SRO4 Ultrasonic Senor
 - Active Buzzer
