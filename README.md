@@ -47,6 +47,10 @@ Hardware Used and was all funded by my mom:
  
   Bobita can be used at Open Sauce to track hwo many visitors comes to our booth and interacts with our projects
 AI usage was helped to figure out code and form a template for the code but all code was reviewed written and tested by me.
+
+Bobita wiring schematics:
+<img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/8a649f70-23d1-4c7e-b9e6-f075964025ca" />
+
   
      
   
